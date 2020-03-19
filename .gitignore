@@ -1,0 +1,24 @@
+# Build
+__pycache__
+/out
+dist
+project/project
+target
+
+# Environment
+.env
+
+# IntelliJ
+/*.iml
+/.idea
+/.idea_modules
+
+# Bloop
+.bloop
+
+# Temporary
+*.log
+*.log.gz
+tmp
+
+.DS_Store
